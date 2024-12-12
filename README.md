@@ -1,5 +1,5 @@
 # Kanan-Mammadli
-https://m7sm4-2iaaa-aaaab-qabra-cai.raw.ic0.app/?tag=914123759
+https://m7sm4-2iaaa-aaaab-qabra-cai.raw.ic0.app/?tag=2267456429
 
 //hesap makinesi 
 //değışkenler(let => immutable , var => mutable)
