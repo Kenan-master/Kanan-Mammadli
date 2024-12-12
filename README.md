@@ -1,5 +1,6 @@
 # Kanan-Mammadli
 https://m7sm4-2iaaa-aaaab-qabra-cai.raw.ic0.app/?tag=914123759
+
 actor hesap_makinesi{
   var hucre: Int = 0;
   
